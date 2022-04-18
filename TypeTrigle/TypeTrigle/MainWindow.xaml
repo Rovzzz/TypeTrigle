@@ -1,0 +1,21 @@
+﻿<Window x:Class="TypeTrigle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TypeTrigle"
+        mc:Ignorable="d"
+        Title="Type Trigle" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="Определение Типа Треугольника" HorizontalAlignment="Left" Margin="110,10,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <Label Content="AB" HorizontalAlignment="Left" Margin="218,90,0,0" VerticalAlignment="Top" FontSize="36" />
+        <Label Content="BC" HorizontalAlignment="Left" Margin="360,90,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <Label Content="CA" HorizontalAlignment="Left" Margin="499,90,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="186,153,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="186,153,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontSize="25" BorderBrush="Black" Name="AB" TextChanged="AB_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="328,153,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontSize="25" BorderBrush="Black" Name="BC" TextChanged="BC_TextChanged" />
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="469,153,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontSize="25" BorderBrush="Black" Name="CA" TextChanged="CA_TextChanged" />
+        <Button Content="Результат" HorizontalAlignment="Left" Margin="318,213,0,0" VerticalAlignment="Top" Width="140" Height="40" Name="Result" Click="Result_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\TypeTrigle.csprojAssemblyReference.cache
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\MainWindow.g.cs
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\App.g.cs
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\TypeTrigle_MarkupCompile.cache
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\TypeTrigle_MarkupCompile.lref
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\bin\Debug\TypeTrigle.exe.config
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\bin\Debug\TypeTrigle.exe
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\bin\Debug\TypeTrigle.pdb
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\MainWindow.baml
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\TypeTrigle.g.resources
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\TypeTrigle.Properties.Resources.resources
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\TypeTrigle.csproj.GenerateResource.cache
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\TypeTrigle.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\TypeTrigle.exe
+C:\Users\1290743\Desktop\TypeTrigle\TypeTrigle\TypeTrigle\obj\Debug\TypeTrigle.pdb
